@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionTask", "StringCompressionTask.csproj", "{4B7119CD-109B-4B15-90B0-1AAAD94321EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionTaskTests", "..\StringCompressionTaskTests\StringCompressionTaskTests.csproj", "{E409F40B-BA41-4EBB-A06B-CE1B8A089A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7119CD-109B-4B15-90B0-1AAAD94321EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7119CD-109B-4B15-90B0-1AAAD94321EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7119CD-109B-4B15-90B0-1AAAD94321EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7119CD-109B-4B15-90B0-1AAAD94321EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E409F40B-BA41-4EBB-A06B-CE1B8A089A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E409F40B-BA41-4EBB-A06B-CE1B8A089A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E409F40B-BA41-4EBB-A06B-CE1B8A089A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E409F40B-BA41-4EBB-A06B-CE1B8A089A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BC36A3-F7E8-4289-9623-C6CE998E5224}
+	EndGlobalSection
+EndGlobal
